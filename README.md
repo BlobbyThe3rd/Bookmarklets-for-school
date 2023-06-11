@@ -8,4 +8,12 @@ This Repository has EVERY BOOKMARKLET(i think) from all over github.
 These bookmarklets are some of the most overpowered bookmarklets you could ever find.
 And there right here.
 #How to Use
-Copy js, right click on Bookmarks Bar, paste into url
+Copy js, right click on Bookmarks Bar, paste into url.
+
+
+
+
+
+
+
+I did not make these boomarklets myself.
