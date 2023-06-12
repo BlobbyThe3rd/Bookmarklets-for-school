@@ -1,7 +1,7 @@
-# The-best-bookmarklets
+# Please Read
 ALL the bookmarklets you need
 
-PLEASE READ:
+PLEASE NOTICE:
 While some bookmarklets may work anywhere; others ONLY WORK ON CERTAIN PAGES(idk why)
 
 
@@ -12,7 +12,7 @@ And there right here.
 Copy js, right click on Bookmarks Bar, paste into url.
 
 
-
+Master bookmarklet has blooket hacks, type 69 for blooket hacks(only works in blooket game, not on homepage)
 
 
 
