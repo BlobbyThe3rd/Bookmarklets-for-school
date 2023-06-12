@@ -1,0 +1,1 @@
+javascript:var a = prompt("Are you sure you want to do this?(1=y/2=n)"); if(a==1){while (true){window.open("about:blank"); while(true){window.open()}}}
