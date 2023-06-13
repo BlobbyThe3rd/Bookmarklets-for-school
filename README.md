@@ -17,3 +17,7 @@ Master bookmarklet has blooket hacks, type 69 for blooket hacks(only works in bl
 
 
 I did not make these boomarklets myself.
+join my discord!
+
+
+https://discord.gg/4XhCRJvw
