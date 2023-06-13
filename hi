@@ -1,0 +1,1 @@
+javascript:num= prompt("What is your name"); alert("hi there " + num)
