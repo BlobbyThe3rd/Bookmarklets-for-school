@@ -14,6 +14,8 @@ Copy js, right click on Bookmarks Bar, paste into url.
 
 Master bookmarklet has blooket hacks, type 69 for blooket hacks(only works in blooket game, not on homepage)
 
+Heres my friend's github
+https://github.com/sillywilly3
 
 
 I did not make these boomarklets myself.
