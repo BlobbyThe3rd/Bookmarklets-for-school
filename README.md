@@ -20,9 +20,5 @@ https://github.com/sillywilly3
 
 I did not make these boomarklets myself.
 
-
-
-join my discord!
-
-
-https://discord.gg/4XhCRJvw
+Thanks,
+BlobbyThe3rd
